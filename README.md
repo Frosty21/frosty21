@@ -1,4 +1,4 @@
-### G'Day 👋 
+### G'Day 👋 I'm Nathan
 
 <!--
 **Frosty21/frosty21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about what I think of Nexus with Nexus-Prisma vs Nexus-Plugin-Prisma, or what my thouhgts on Rust are.
 - 📫 How to reach me: [nathan.froese21@gmail.com](mailto:nathan.froese21@gmail.com)
 - ⚡ Fun fact: orignally from Perth WA, Australia 🥵🏖️ but now live in Saskatoon SK, Canada 🥶☃️
+- catch me on
