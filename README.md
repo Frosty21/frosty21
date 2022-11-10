@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning PostrgeSQL with PostGIS and Googlemaps API.
 - 👯 I’m looking to collaborate on creating a scaffold profile page website with the tech stack I've learnt (Postgres, Prisma, Nexus, Nexus-Prisma, NextJS, React, Mui) and also some Rust to interact with micro-controllers at home.
 - 🤔 I’m looking for help with understanding PostGIS for geo-zoning and Block Range Indexing for more advanced time scheduling.
-- 💬 Ask me about what I think of Nexus with Nexus-Prisma vs Nexus-Plugin-Prisma, or what my thouhgts on Rust are.
+- 💬 Ask me about what I think of Nexus with Nexus-Prisma vs Nexus-Plugin-Prisma, or what my thoughts on Rust are.
 - 📫 How to reach me: [nathan.froese21@gmail.com](mailto:nathan.froese21@gmail.com)
 - ⚡ Fun fact: orignally from Perth WA, Australia 🥵🏖️ but now live in Saskatoon SK, Canada 🥶☃️
 
