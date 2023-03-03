@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [findAlto App](https://app.findalto.com) that connects careseekers to caregivers without compromise.
+- 🔭 I’m currently looking for work and building my repositories.
+- 💼 Previously worked at [findAlto App](https://app.findalto.com) that connects careseekers to caregivers without compromise.
 - 🌱 I’m currently learning PostrgeSQL with PostGIS and Googlemaps API.
 - 👯 I’m looking to collaborate on creating a scaffold profile page website with the tech stack I've learnt (Postgres, Prisma, Nexus, Nexus-Prisma, NextJS, React, Mui) and also some Rust to interact with micro-controllers at home.
 - 🤔 I’m looking for help with understanding PostGIS for geo-zoning and Block Range Indexing for more advanced time scheduling.
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Full Stack Developer with [FindAlto](https://findalto.com), with 1-2 years of experience in developing enterprise applications and open-source software.
+I am a Full Stack Developer with 1-2 years of experience in developing enterprise applications and open-source software. My goal is to build apps that have purpose, DX efficiency, maintainable, scalable and benifits open source.
 
 ### My Opensource Story
   I've worked in a company called gomae that was trying to make veganizable food accessable to users all alike in Vancouver. We made the map app in React-Native, MySQL DB, Express, AWS and a few other things.
